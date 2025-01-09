@@ -1,4 +1,4 @@
-# Anjani Kumar - DevOps Portfolio
+## **Anjani Kumar - DevOps Portfolio**
 
 Welcome to my professional portfolio! This repository highlights my journey as a DevOps Engineer, showcasing my expertise in cloud infrastructure, automation, and building scalable applications.
 
